@@ -89,7 +89,7 @@
 		<dependency>
    			<groupId>org.hibernate.orm</groupId>
    			<artifactId>hibernate-core</artifactId>
-   			<version>6.2.5.Final</version> <!-- Use a stable version -->
+   			<version>6.1.0.Final</version> <!-- Use a stable version -->
 		</dependency>
 	</dependencies>
 
